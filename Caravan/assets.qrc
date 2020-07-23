@@ -1,0 +1,69 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>3-10 The Whims of Fate.mp3</file>
+        <file>2-23 The Days When My Mother Was There.mp3</file>
+    </qresource>
+    <qresource prefix="/cards">
+        <file>2C.jpg</file>
+        <file>2D.jpg</file>
+        <file>2H.jpg</file>
+        <file>2S.jpg</file>
+        <file>3C.jpg</file>
+        <file>3D.jpg</file>
+        <file>3H.jpg</file>
+        <file>3S.jpg</file>
+        <file>4C.jpg</file>
+        <file>4D.jpg</file>
+        <file>4H.jpg</file>
+        <file>4S.jpg</file>
+        <file>5C.jpg</file>
+        <file>5D.jpg</file>
+        <file>5H.jpg</file>
+        <file>5S.jpg</file>
+        <file>6C.jpg</file>
+        <file>6D.jpg</file>
+        <file>6H.jpg</file>
+        <file>6S.jpg</file>
+        <file>7C.jpg</file>
+        <file>7D.jpg</file>
+        <file>7H.jpg</file>
+        <file>7S.jpg</file>
+        <file>8C.jpg</file>
+        <file>8D.jpg</file>
+        <file>8H.jpg</file>
+        <file>8S.jpg</file>
+        <file>9C.jpg</file>
+        <file>9D.jpg</file>
+        <file>9H.jpg</file>
+        <file>9S.jpg</file>
+        <file>10C.jpg</file>
+        <file>10D.jpg</file>
+        <file>10H.jpg</file>
+        <file>10S.jpg</file>
+        <file>AC.jpg</file>
+        <file>AD.jpg</file>
+        <file>AH.jpg</file>
+        <file>AS.jpg</file>
+        <file>JC.jpg</file>
+        <file>JD.jpg</file>
+        <file>JH.jpg</file>
+        <file>JS.jpg</file>
+        <file>KC.jpg</file>
+        <file>KD.jpg</file>
+        <file>KH.jpg</file>
+        <file>KS.jpg</file>
+        <file>QC.jpg</file>
+        <file>QD.jpg</file>
+        <file>QH.jpg</file>
+        <file>QS.jpg</file>
+        <file>back.png</file>
+        <file>tarot.png</file>
+        <file>tarot2.jpg</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>t9LM0aa.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>cardSlide4.wav</file>
+    </qresource>
+</RCC>
